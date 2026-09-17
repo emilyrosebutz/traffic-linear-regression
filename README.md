@@ -1,18 +1,21 @@
 # traffic-linear-regression
 
 ## To do (Emily)
-[] Examining attributes and target variable(s): Be sure you clearly understand each of the attributes and the target variable.
-[] check for data inconsistency
-[] convert date time to categories 
-[] state time independence assumption in report
-[] Examine the various attributes and convert any categorical ones to numerical ones, if needed. 
-[] Obtain and output summary of the attributes. Are the attributes normally distributed? If not, what could be the reason?
-[] handle outliers
-[] Standardize and normalize the attributes.
-[] Find how the attributes are correlated to each other and the target variable. Perform numerical and visual analysis and output plots and results.
-[] Identify a few important attributes and proceed forward. Do not use all attributes blindly.
-[] Split the data into training and testing parts. The ratio is up to you.
+[X] Examining attributes and target variable(s): Be sure you clearly understand each of the attributes and the target variable.
+[X] Check for highly correlated or redundant variables
+[X] check for data inconsistency
+[X] convert date time to categories 
+[X] Examine the various attributes and convert any categorical ones to numerical ones, if needed. 
+[X] Obtain and output summary of the attributes. Are the attributes normally distributed? If not, what could be the reason?
+[X] handle outliers
+[X] Standardize and normalize the attributes.
+[X] Find how the attributes are correlated to each other and the target variable. Perform numerical and visual analysis and output plots and results.
+[X] Identify a few important attributes and proceed forward. Do not use all attributes blindly.
+[X] Split the data into training and testing parts. The ratio is up to you.
 [] update report with pre-processing findings (make sure to include plots and interpretation)
+[] state time independence assumption in report
+[] explain why certain features aren't normally distributed
+
 
 ## To do (Kendra)
 []
