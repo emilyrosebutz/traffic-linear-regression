@@ -1,8 +1,7 @@
 # traffic-linear-regression
 
-
-
 Language: Python
+
 Libraries used: ucimlrepo, pandas, seaborn, numpy, matplotlib, scikit-learn, statsmodels
 
 Begin by installing the previously listed libraries. Then, open this Jupyter Notebook in an environment of your choosing.
